@@ -1,5 +1,5 @@
 # Ellptic-or-Hyperbolic-Localization-Using-Minimum-Measurement-Solutions
-MATLAB Processing Code for Ellptic or Hyperbolic Localization Using Minimum Measurement Solutions
+MATLAB Processing Code for "Ellptic or Hyperbolic Localization Using Minimum Measurement Solutions"
 
 If you use any of the following codes in your research, please cite the corresponding paper as a reference in your publication. Thank you!
 
