@@ -1,4 +1,4 @@
-# Ellptic-or-Hyperbolic-Localization-Using-Minimum-Measurement-Solutions
+# Elliptic-or-Hyperbolic-Localization-Using-Minimum-Measurement-Solutions
 MATLAB Processing Code for "Elliptic or Hyperbolic Localization Using Minimum Measurement Solutions"
 
 If you use any of the following codes in your research, please cite the corresponding paper as a reference in your publication. Thank you!
@@ -19,7 +19,7 @@ IndvSolSel.m: Individual Solution Selection for BLUE
 
 BLUEest.m: Combining Individual Solutions by BLUE
 
-Example_Fig12Fig13.m: Example Reproduction for Ellpitic Localization
+Example_Fig12Fig13.m: Example Reproduction for Elliptic Localization
 
 Example_Fig15Fig16.m: Example Reproduction for Hyperbolic Localization
 
